@@ -1,5 +1,6 @@
 ## 源码备注
 
+- basic_key：两种按键识别
 - basic_led：led控制
 
 
