@@ -2,7 +2,7 @@
 
 - basic_key：两种按键识别
 - basic_led：led控制
-
+- basic_timer：定时器控制led
 
 
 
